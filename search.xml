@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>文章标题四</title>
+      <link href="/2022/04/07/wen-zhang-biao-ti-si/"/>
+      <url>/2022/04/07/wen-zhang-biao-ti-si/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章标题三</title>
+      <link href="/2022/04/07/wen-zhang-biao-ti-san/"/>
+      <url>/2022/04/07/wen-zhang-biao-ti-san/</url>
+      
+        <content type="html"><![CDATA[<h3 id="春朱自清赏析如下："><a href="#春朱自清赏析如下：" class="headerlink" title="春朱自清赏析如下："></a>春朱自清赏析如下：</h3><p>1.作品起始写道：<strong>盼望着</strong>，盼望着，东风来了，春天的脚步近了。两个“盼望着”的词语重叠，强化了人们对春天的&#x3D;&#x3D;期盼&#x3D;&#x3D;。</p><p>2.“小草偷偷地从土里钻出来，嫩嫩的，绿绿的……风轻悄悄的，草软绵绵的”。“钻”字用得何等传神;“嫩嫩的，绿绿的”，“草软绵绵的”，又是何等简洁而富有质感地写出了初春草的特点。</p><p>3.《春》的主题思想即对自由境界的向往。朱自清先生当时虽置身在污浊黑暗的旧中国，但他的心灵世界则是一片澄澈明净，他的精神依然昂奋向上。先生把他健康高尚的审美情趣，把他对美好事物的无限热爱，将他对人生理想的不懈追求熔铸到文章中去。熔铸到诗一样美丽的语言中去。从而使整篇文章洋溢着浓浓的诗意，产生了经久不衰的艺术魅力。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章标题二</title>
+      <link href="/2022/04/03/wen-zhang-biao-ti-er/"/>
+      <url>/2022/04/03/wen-zhang-biao-ti-er/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 法律 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章标题一</title>
+      <link href="/2022/04/03/wen-zhang-biao-ti-yi/"/>
+      <url>/2022/04/03/wen-zhang-biao-ti-yi/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/04/03/hello-world/"/>
+      <url>/2022/04/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
